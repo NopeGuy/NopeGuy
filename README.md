@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning C/Java/Python.
 
 ### Spotify Playing 🎧
-[![Spotify](https://nopeguy.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
+[![Spotify](https://nopeguy.vercel.app)](https://open.spotify.com/user/11130361747)
 
 ### Connect with me:
 
