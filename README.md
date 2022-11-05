@@ -10,6 +10,11 @@
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
 
+
+🗃 
+
+
+
 ### Connect with me:
 
 
