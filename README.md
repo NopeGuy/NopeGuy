@@ -15,15 +15,12 @@
 ## Projects 🗃
 
 ### C
-
 -   [Operating Systems Project](https://github.com/NopeGuy/SO2122-G43)
 
 ### Java
-
 -   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
 
 ### Haskell
-
 -   [BlockDude](https://github.com/NopeGuy/BlockDudeHaskell)
 
 
