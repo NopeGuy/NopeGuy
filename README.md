@@ -7,12 +7,24 @@
 - 🔭 Always looking out for new ways to improve myself and how to code efficiently.
 - 🌱 I’m currently learning C/Java/Python.
 
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
 
 
-🗃 
+## Projects 🗃
 
+### C
+
+-   [Operating Systems Project](https://github.com/NopeGuy/SO2122-G43)
+
+### Java
+
+-   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
+
+### Haskell
+
+-   [BlockDude](https://github.com/NopeGuy/BlockDudeHaskell)
 
 
 ### Connect with me:
