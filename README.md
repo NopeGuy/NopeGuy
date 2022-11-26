@@ -15,6 +15,7 @@
 ## Projects 🗃
 
 ### C
+-   [Computing Laboratories 3 (Parser and data management)](https://github.com/NopeGuy/LI3-2223)
 -   [Operating Systems Project](https://github.com/NopeGuy/SO2122-G43)
 
 ### Java
