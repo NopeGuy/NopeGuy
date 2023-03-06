@@ -14,6 +14,13 @@
 
 ## Projects 🗃
 
+
+### Haskell
+
+-   [Fichas e Testes P.F.](https://github.com/NopeGuy/PF)
+-   [Computing Laboratories 1 (BlockDude)](https://github.com/NopeGuy/BlockDudeHaskell)
+
+
 ### C
 -   [Computing Laboratories 2 (Classic game "Rastros")](https://github.com/NopeGuy/LI2-1920)
 -   [Computing Laboratories 3 (Parser and data management)](https://github.com/NopeGuy/LI3-2223)
@@ -22,11 +29,6 @@
 
 ### Java
 -   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
-
-### Haskell
-
--   [Fichas e Testes P.F.](https://github.com/NopeGuy/PF)
--   [Computing Laboratories 1 (BlockDude)](https://github.com/NopeGuy/BlockDudeHaskell)
 
 
 ### Connect with me:
