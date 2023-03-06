@@ -26,7 +26,7 @@
 ### Haskell
 
 -   [Fichas e Testes P.F.](https://github.com/NopeGuy/PF)
--   [BlockDude](https://github.com/NopeGuy/BlockDudeHaskell)
+-   [Computing Laboratories 1 (BlockDude)](https://github.com/NopeGuy/BlockDudeHaskell)
 
 
 ### Connect with me:
