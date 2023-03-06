@@ -24,6 +24,8 @@
 -   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
 
 ### Haskell
+
+-   [Fichas e Testes P.F.](https://github.com/NopeGuy/PF)
 -   [BlockDude](https://github.com/NopeGuy/BlockDudeHaskell)
 
 
