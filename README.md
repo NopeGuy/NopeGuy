@@ -15,8 +15,10 @@
 ## Projects 🗃
 
 ### C
+-   [Computing Laboratories 2 (classic game "Rastros")](https://github.com/NopeGuy/LI2-1920)
 -   [Computing Laboratories 3 (Parser and data management)](https://github.com/NopeGuy/LI3-2223)
 -   [Operating Systems Project](https://github.com/NopeGuy/SO2223)
+
 
 ### Java
 -   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
