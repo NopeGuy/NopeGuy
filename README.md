@@ -16,8 +16,6 @@
 
 
 ### Haskell
-
--   [Fichas e Testes P.F.](https://github.com/NopeGuy/PF)
 -   [Computing Laboratories 1 (BlockDude)](https://github.com/NopeGuy/BlockDudeHaskell)
 
 
@@ -29,6 +27,10 @@
 
 ### Java
 -   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
+
+
+## Exercises📄
+-   [Fichas e Testes P.F.](https://github.com/NopeGuy/PF)
 
 
 ### Connect with me:
