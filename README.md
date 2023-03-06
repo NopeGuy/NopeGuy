@@ -30,7 +30,9 @@
 
 
 ## Exercises 📄
--   [Fichas e Testes P.F.](https://github.com/NopeGuy/PF)
+-   [Exercises and Exams P.F.](https://github.com/NopeGuy/PF)
+-   [Exercises P.O.O.](https://github.com/NopeGuy/POO_Fichas)
+-   [Exercises S.O.](https://github.com/NopeGuy/SO_Fichas)
 
 
 ## Connect with me 📞
