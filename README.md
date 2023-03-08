@@ -30,9 +30,9 @@
 
 
 ## Exercises 📄
--   [Exercises and Exams P.F.](https://github.com/NopeGuy/PF)
--   [Exercises P.O.O.](https://github.com/NopeGuy/POO_Fichas)
--   [Exercises S.O.](https://github.com/NopeGuy/SO_Fichas)
+-   [Exercises and Exams P.F.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF)
+-   [Exercises P.O.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO)
+-   [Exercises S.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO)
 
 
 ## Connect with me 📞
