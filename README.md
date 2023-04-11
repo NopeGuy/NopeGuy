@@ -27,6 +27,7 @@
 
 ### Java
 -   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
+-   [Vintade knockoff store (Vintage)](https://github.com/NopeGuy/POO-2223)
 
 
 ## Exercises 📄
