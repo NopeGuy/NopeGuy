@@ -32,6 +32,7 @@
 
 ## Exercises 📄
 -   [Exercises and Exams P.F.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF)
+-   [Exercises P.I.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI)
 -   [Exercises P.O.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO)
 -   [Exercises S.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO)
 
