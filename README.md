@@ -5,7 +5,6 @@
 ## Small stuff about me:
 - 🎓 Hoping to finish graduation soon.
 - 🔭 Always looking out for new ways to improve myself and how to code efficiently.
-- 🌱 I’m currently learning C/Java/Python.
 
 
 ### Spotify Playing 🎧
