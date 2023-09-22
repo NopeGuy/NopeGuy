@@ -1,14 +1,14 @@
-# Hi, I'm Luís - aka [NopeGuy][website] 👋
+# Hi, I'm Luís - a.k.a. [NopeGuy][website] 👋
 <p><br />   
     </p>
 
 
 ## Small stuff about me:
-- 🎓 Hoping to finish graduation soon.
-- 🔭 Always looking out for new ways to improve myself and how to code efficiently.
+I am a computer engineering student at **Universidade do Minho**[website2] in Braga, with just one more year to complete my degree. Some of my interests include homebrew software installation and modification, as well as game code modification, such as console ROMs. I am always seeking new ways to enhance my skills and optimize my coding practices. 
+This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
 
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
 
 
@@ -45,7 +45,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GunaoDeJardim)
 
+## Languages
+
+[![Haskell](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![C](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![C#](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Java](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Python](https://www.flaticon.com/free-icons/python)]
+[![SQL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+
 <br />
+
+
 
 
 ---
@@ -56,5 +67,6 @@
 </details>
 
 [website]: https://iamawesome.com/
+[website2]: https://www.uminho.pt/
 [twitter]: https://twitter.com/GunaoDeJardim
 [linkedin]: https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/
