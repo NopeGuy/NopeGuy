@@ -50,9 +50,9 @@ This GitHub page showcases a collection of my college projects and exercises com
 
 
 
+---
 
 <br />
----
 
 </details>
 
