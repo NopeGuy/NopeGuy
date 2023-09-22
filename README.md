@@ -4,7 +4,7 @@
 
 
 ## Small stuff about me:
-I am a computer engineering student at **Universidade do Minho**[website2] in Braga, with just one more year to complete my degree. Some of my interests include homebrew software installation and modification, as well as game code modification, such as console ROMs. I am always seeking new ways to enhance my skills and optimize my coding practices. 
+I am a computer engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree. Some of my interests include homebrew software installation and modification, as well as game code modification, such as console ROMs. I am always seeking new ways to enhance my skills and optimize my coding practices. 
 This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
 
 
