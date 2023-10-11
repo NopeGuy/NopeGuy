@@ -8,38 +8,38 @@ I am an informatic engineering student at [**Universidade do Minho**][website2] 
 Some of my interests include homebrew software installation and modification, as well as game ROM's code modification. I am always seeking new ways to enhance my skills and optimize my coding practices.<br>
 This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
 
-
 <div style="border: none">
   <table style="border-collapse: collapse;">
     <tr style="border: none !important;padding: 5px;">
-    <th style="border: none !important;padding: 5px;text-align:left;padding-left:10px;" align="left">
+      <th style="border: none !important;padding: 5px;text-align:left;padding-left:10px;" align="left">
         <img src="https://novatorem-pied-one.vercel.app/api/spotify" width="300" height="300">
-    </th>
+      </th>
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
         <p>📚 Projects </p>
         <table>
-            <tr>
-              <th>Haskell (https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)</th>
-              <th>C (https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</th>
-              <th>Java (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</th>
-            </tr>
-            <tr>
-              <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
-            </tr>
-            <tr>
-              <td><a href="https://github.com/NopeGuy/LI2-1920">[LI1] Game "Rastros"</a></td>
-              <td><a href="https://github.com/NopeGuy/LI3-2223">[LI3] Parser and Data Management Software</a></td>
-              <td><a href="https://github.com/NopeGuy/SO2223">[SO] Monitoring and Tracking Program Execution</a></td>
-            </tr>
-            <tr>
-              <td><a href="https://github.com/NopeGuy/POO-2223">Vinted knockoff store (Vintage)</a></td>
-              <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Based Football Manager Ever™</a></td>
-            </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
+            <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
+            <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/NopeGuy/LI2-1920">[LI1] Game "Rastros"</a></td>
+            <td><a href="https://github.com/NopeGuy/LI3-2223">[LI3] Parser and Data Management Software</a></td>
+            <td><a href="https://github.com/NopeGuy/SO2223">[SO] Monitoring and Tracking Program Execution</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/NopeGuy/POO-2223">Vinted knockoff store (Vintage)</a></td>
+            <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Based Football Manager Ever™</a></td>
+          </tr>
         </table>
       </th>
     </tr>
   </table>
 </div>
+
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
