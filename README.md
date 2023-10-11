@@ -42,12 +42,12 @@ This GitHub page showcases a collection of my college projects and exercises com
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
         <p>📄 Exercises and Reports</p>
         <ul>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">Functional Programming / Programação Funcional</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">Imperative Programming / Programação Imperativa</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">Object Oriented Programming / Programação Orientada a Objetos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">Operating Systems / Sistemas Operativos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">Operational Investigation / Investigação Operacional</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD">Databases / Bases de Dados</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF"><strong>P.F.</strong>Functional Programming / Programação Funcional</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI"><strong>P.I.</strong>Imperative Programming / Programação Imperativa</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO"><strong>P.O.O.</strong>Object Oriented Programming / Programação Orientada a Objetos</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO"><strong>S.O.</strong>Operating Systems / Sistemas Operativos</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO"><strong>I.O.</strong>Operational Investigation / Investigação Operacional</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD"><strong>B.D.</strong>Databases / Bases de Dados</a></li>
         </ul>
       </th>
     </tr>
