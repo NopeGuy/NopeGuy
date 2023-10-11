@@ -23,17 +23,17 @@ This GitHub page showcases a collection of my college projects and exercises com
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
-            <td><a href="https://github.com/NopeGuy/LI2-1920">[LI1] Game "Rastros"</a></td>
+            <td><a href="https://github.com/NopeGuy/LI2-1920">Game "Rastros"</a></td>
             <td><a href="https://github.com/NopeGuy/POO-2223">Vinted knockoff store (Vintage)</a></td>
           </tr>
           <tr>
             <td></td>
-            <td><a href="https://github.com/NopeGuy/LI3-2223">[LI3] Parser and Data Management Software</a></td>
+            <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management Software</a></td>
             <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Based Football Manager Ever™</a></td>
           </tr>
           <tr>
             <td></td>
-            <td><a href="https://github.com/NopeGuy/SO2223">[SO] Tracking Program Execution</a></td>
+            <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
           </tr>
         </table>
       </th>
