@@ -40,14 +40,14 @@ This GitHub page showcases a collection of my college projects and exercises com
     </tr>
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
-        <p>📄 Exercises </p>
+        <p>📄 Exercises and Reports</p>
         <ul>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">Exercises and Exams P.F.</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">Exercises P.I.</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">Exercises P.O.O.</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">Exercises S.O.</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">Exercises I.O.</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD">Exercises B.D.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">Functional Programming / Programação Funcional</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">Imperative Programming / Programação Imperativa</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">Object Oriented Programming / Programação Orientada a Objetos</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">Operating Systems / Sistemas Operativos</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">Operational Investigation / Investigação Operacional</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD">Databases / Bases de Dados</a></li>
         </ul>
       </th>
     </tr>
