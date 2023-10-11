@@ -19,9 +19,9 @@ This GitHub page showcases a collection of my college projects and exercises com
         <p>📚 Projects </p>
         <table>
             <tr>
-              <th>Haskell ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)</th>
-              <th>C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</th>
-              <th>Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</th>
+              <th>Haskell (https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)</th>
+              <th>C (https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</th>
+              <th>Java (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</th>
             </tr>
             <tr>
               <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
