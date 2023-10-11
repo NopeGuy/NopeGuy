@@ -14,6 +14,8 @@ This GitHub page showcases a collection of my college projects and exercises com
       <th style="border: none !important;padding: 5px;text-align:left;padding-left:10px;" align="left">
         [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
       </th>
+    </tr>
+    <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
         <p>📚 Projects </p>
         <table>
@@ -35,6 +37,19 @@ This GitHub page showcases a collection of my college projects and exercises com
             <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Based Football Manager Ever™</a></td>
           </tr>
         </table>
+      </th>
+    </tr>
+    <tr style="border: none !important;padding: 5px;">
+      <th style="border: none !important;padding: 5px;" align="left" width="1000">
+        <p>📄 Exercises </p>
+        <ul>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">Exercises and Exams P.F.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">Exercises P.I.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">Exercises P.O.O.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">Exercises S.O.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">Exercises I.O.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD">Exercises B.D.</a></li>
+        </ul>
       </th>
     </tr>
   </table>
