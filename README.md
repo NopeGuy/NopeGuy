@@ -66,3 +66,11 @@ This GitHub page showcases a collection of my college projects and exercises com
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+[website]: https://iamawesome.com/
+[website2]: https://www.uminho.pt/
+[twitter]: https://twitter.com/GunaoDeJardim
+[linkedin]: https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/
