@@ -9,27 +9,40 @@ Some of my interests include homebrew software installation and modification, as
 This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
 
 
+<div style="border: none">
+  <table style="border-collapse: collapse;">
+    <tr style="border: none !important;padding: 5px;">
+    <th style="border: none !important;padding: 5px;text-align:left;padding-left:10px;" align="left">
+        <img src="https://novatorem-pied-one.vercel.app/api/spotify" width="300" height="300">
+    </th>
+      <th style="border: none !important;padding: 5px;" align="left" width="1000">
+        <p>📚 Projects </p>
+        <table>
+            <tr>
+              <th>Haskell ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)</th>
+              <th>C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</th>
+              <th>Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</th>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/NopeGuy/LI2-1920">[LI1] Game "Rastros"</a></td>
+              <td><a href="https://github.com/NopeGuy/LI3-2223">[LI3] Parser and Data Management Software</a></td>
+              <td><a href="https://github.com/NopeGuy/SO2223">[SO] Monitoring and Tracking Program Execution</a></td>
+            </tr>
+            <tr>
+              <td><a href="https://github.com/NopeGuy/POO-2223">Vinted knockoff store (Vintage)</a></td>
+              <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Based Football Manager Ever™</a></td>
+            </tr>
+        </table>
+      </th>
+    </tr>
+  </table>
+</div>
+
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
-
-
-## Projects 🗃
-
-
-### Haskell
--   [Computer Labs 1 (BlockDude)](https://github.com/NopeGuy/BlockDudeHaskell)
-
-
-### C
--   [Computer Labs 2 (Classic game "Rastros")](https://github.com/NopeGuy/LI2-1920)
--   [Computer Labs 3 (Parser and data management)](https://github.com/NopeGuy/LI3-2223)
--   [Operating Systems Project](https://github.com/NopeGuy/SO2223)
-
-
-### Java
--   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
--   [Vintade knockoff store (Vintage)](https://github.com/NopeGuy/POO-2223)
-
 
 ## Exercises 📄
 -   [Exercises and Exams P.F.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF)
