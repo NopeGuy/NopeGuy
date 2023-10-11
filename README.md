@@ -38,6 +38,15 @@ This GitHub page showcases a collection of my college projects and exercises com
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/SO2223">[SO] Tracking Program Execution</a></td>
+          </tr>          
+            <tr>
+            <td></td>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">Exercises and Exams P.F.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">Exercises P.I.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">Exercises P.O.O.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">Exercises S.O.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">Exercises I.O.</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD">Exercises B.D.</a></li>
           </tr>
         </table>
       </th>
@@ -59,15 +68,6 @@ This GitHub page showcases a collection of my college projects and exercises com
 </div>
 
 
-
-
-## Exercises 📄
--   [Exercises and Exams P.F.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF)
--   [Exercises P.I.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI)
--   [Exercises P.O.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO)
--   [Exercises S.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO)
--   [Exercises I.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO)
--   [Exercises B.D.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD)
 
 
 ## Connect with me 📞
