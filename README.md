@@ -12,7 +12,7 @@ This GitHub page showcases a collection of my college projects and exercises com
   <table style="border-collapse: collapse;">
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;text-align:left;padding-left:10px;" align="left">
-        <img src="https://novatorem-pied-one.vercel.app/api/spotify" width="300" height="300">
+        [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
       </th>
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
         <p>📚 Projects </p>
@@ -28,7 +28,7 @@ This GitHub page showcases a collection of my college projects and exercises com
           <tr>
             <td><a href="https://github.com/NopeGuy/LI2-1920">[LI1] Game "Rastros"</a></td>
             <td><a href="https://github.com/NopeGuy/LI3-2223">[LI3] Parser and Data Management Software</a></td>
-            <td><a href="https://github.com/NopeGuy/SO2223">[SO] Monitoring and Tracking Program Execution</a></td>
+            <td><a href="https://github.com/NopeGuy/SO2223">[SO] Tracking Program Execution</a></td>
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/POO-2223">Vinted knockoff store (Vintage)</a></td>
