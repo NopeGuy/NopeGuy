@@ -3,11 +3,11 @@
     </p>
 
 ## Small stuff about me:
-I am an informatic engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
+I am an informatics engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
 Some of my interests include homebrew software installation and modification, as well as game ROM's code modification. I am always seeking new ways to enhance my skills and optimize my coding practices.<br>
 This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
 
-## Spotify Playing 🎧
+## 🎧 Spotify Playing 
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
 
 <div style="border: none">
@@ -54,7 +54,7 @@ This GitHub page showcases a collection of my college projects and exercises com
   </table>
 </div>
 
-## Connect with me 
+## 💬 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
 [![Email badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisgmsferreira@gmail.com)
 
