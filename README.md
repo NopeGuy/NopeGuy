@@ -7,10 +7,9 @@ I am an informatic engineering student at [**Universidade do Minho**][website2] 
 Some of my interests include homebrew software installation and modification, as well as game ROM's code modification. I am always seeking new ways to enhance my skills and optimize my coding practices.<br>
 This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
 
-## Connect with me 📞
+## Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
-[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luisgmsferreira@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GunaoDeJardim)
+[![Email badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisgmsferreira@gmail.com)
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
