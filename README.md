@@ -10,6 +10,7 @@ This GitHub page showcases a collection of my college projects and exercises com
 ## 🎧 Spotify Playing 
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
 
+##
 <div style="border: none">
   <table style="border-collapse: collapse;">
     <tr style="border: none !important;padding: 5px;">
