@@ -1,11 +1,12 @@
-# Hi, I'm Luís - a.k.a. [NopeGuy][website] 👋
+# What's up, Doc?🥕
+I'm Luís, a.k.a. [NopeGuy][website]. Welcome to my corner of the digital universe! Take a virtual stroll through my projects and coding misadventures.
 <p><br />   
     </p>
 
 ## Small stuff about me:
 I am an informatics engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
-Some of my interests include homebrew software installation and modification, as well as game ROM's code modification. I am always seeking new ways to enhance my skills and optimize my coding practices.<br>
-This GitHub page showcases a collection of my college projects and exercises completed over the years—feel free to explore!
+Some of my interests include tinkering with homebrew software, game development as well as game ROM's code modification. I am always seeking new ways to hone my skills and optimize my coding practices.<br>
+This GitHub page showcases a collection of my projects and exercises completed over the years—feel free to explore!
 
 ## 🎧 Spotify Playing 
 [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
