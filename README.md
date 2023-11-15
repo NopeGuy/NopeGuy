@@ -53,7 +53,6 @@ This GitHub page showcases a collection of my college projects and exercises com
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">P.O.O. |Object Oriented Programming / Programação Orientada a Objetos</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">S.O. |Operating Systems / Sistemas Operativos</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">I.O. |Operational Investigation / Investigação Operacional</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD">B.D. |Databases / Bases de Dados</a></li>
         </ul>
       </th>
     </tr>
