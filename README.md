@@ -31,8 +31,8 @@ This GitHub page showcases a collection of my college projects and exercises com
           </tr>
           <tr>
             <td></td>
-            <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management Software</a></td>
-            <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Based Football Manager Ever™</a></td>
+            <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
+            <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Football Manager Ever™</a></td>
           </tr>
           <tr>
             <td></td>
