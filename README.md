@@ -33,10 +33,13 @@ This GitHub page showcases a collection of my college projects and exercises com
             <td></td>
             <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
             <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Football Manager Ever™</a></td>
+            <td></td>
           </tr>
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
+            <td></td>
+            <td></td>
           </tr>
         </table>
       </th>
