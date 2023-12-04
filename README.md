@@ -27,13 +27,13 @@ This GitHub page showcases a collection of my projects and exercises completed o
           <tr>
             <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
             <td><a href="https://github.com/NopeGuy/LI2-1920">Game "Rastros"</a></td>
-            <td><a href="https://github.com/NopeGuy/POO-2223">Vinted knockoff store (Vintage)</a></td>
+            <td><a href="https://github.com/NopeGuy/POO-2223">Vintage knockoff store</a></td>
             <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
           </tr>
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
-            <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text Football Manager Ever™</a></td>
+            <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text FootManager Ever™</a></td>
             <td></td>
           </tr>
           <tr>
