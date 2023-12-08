@@ -60,7 +60,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
 </div>
     
 <p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh2.gif?raw=true" width="820" height="120" />
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true" width="820" height="190" />
 </p>
 
 ## 💬 Connect with me 
