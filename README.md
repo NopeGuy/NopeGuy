@@ -2,7 +2,7 @@
   <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true" width="820" height="160" />
 
 # Hi [I'm Luís, a.k.a. NopeGuy][website], and welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
-<p><br />  
+<p>
 
 ## Small stuff about me:
 I am an informatics engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
