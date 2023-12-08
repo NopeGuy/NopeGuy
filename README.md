@@ -2,7 +2,7 @@
   <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true" width="820" height="180" />
 </p>
 
-## [I'm Luís, a.k.a. NopeGuy][website]. Welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
+# Hi [I'm Luís, a.k.a. NopeGuy][website], and welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
 <p><br />  
 
 ## Small stuff about me:
