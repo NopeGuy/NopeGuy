@@ -1,7 +1,6 @@
 # What's up, Doc?🥕
 ## [I'm Luís, a.k.a. NopeGuy][website]. Welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
-<p><br />   
-    </p>
+<p><br />  
 
 ## Small stuff about me:
 I am an informatics engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
@@ -61,7 +60,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
 </div>
     
 <p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh.gif?raw=true" height="300" />
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true" width="820" height="190" />
 </p>
 
 ## 💬 Connect with me 
