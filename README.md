@@ -2,8 +2,9 @@
 ## [I'm Luís, a.k.a. NopeGuy][website]. Welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
 <p><br />   
     </p>
+    
 <p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh.gif?raw=true" />
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh.gif?raw=true" height="300" />
 </p>
 
 ## Small stuff about me:
