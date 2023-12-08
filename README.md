@@ -3,7 +3,7 @@
 <p><br />   
     </p>
 <p align="center">
-  <img src="https://github.com/NopeGuy/blob/main/NopeGuy/yosh.gif?raw=true" />
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh.gif?raw=true" />
 </p>
 
 ## Small stuff about me:
