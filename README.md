@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true" width="800" height="150" />
+</p>
 # What's up, Doc?🥕
 ## [I'm Luís, a.k.a. NopeGuy][website]. Welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
 <p><br />  
@@ -58,10 +61,6 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
   </table>
 </div>
-    
-<p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true" width="800" height="100" />
-</p>
 
 ## 💬 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
