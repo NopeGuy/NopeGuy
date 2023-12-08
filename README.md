@@ -2,10 +2,6 @@
 ## [I'm Luís, a.k.a. NopeGuy][website]. Welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
 <p><br />   
     </p>
-    
-<p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh.gif?raw=true" height="300" />
-</p>
 
 ## Small stuff about me:
 I am an informatics engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
@@ -63,6 +59,10 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
   </table>
 </div>
+    
+<p align="center">
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh.gif?raw=true" height="300" />
+</p>
 
 ## 💬 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
