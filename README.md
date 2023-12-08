@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true"/>
 
-# Hi [I'm Luís, a.k.a. NopeGuy][website], and welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
+# Hi [I'm Luís, a.k.a. NopeGuy][website], and welcome to my corner of the digital universe! 
+# Take a stroll through my projects and coding misadventures.
 <br />  
 
 ## Small stuff about me:
