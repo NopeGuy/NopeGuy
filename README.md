@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true" width="800" height="150" />
 </p>
+
 # What's up, Doc?🥕
 ## [I'm Luís, a.k.a. NopeGuy][website]. Welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
 <p><br />  
