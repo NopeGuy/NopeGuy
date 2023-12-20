@@ -42,7 +42,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
-            <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing System with UDP/Torrent Service</a></td>
+            <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
             <td></td>
           </tr>
         </table>
