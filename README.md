@@ -40,11 +40,13 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
             <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text FootManager Ever™</a></td>
             <td></td>
+            <td></td>
           </tr>
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
+            <td></td>
             <td></td>
           </tr>
         </table>
