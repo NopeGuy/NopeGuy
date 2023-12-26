@@ -22,33 +22,36 @@ This GitHub page showcases a collection of my projects and exercises completed o
         <p>📚 Projects </p>
         <table>
           <tr>
-            <td><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
+            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Haskell"></td>
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
             <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Haskell"></td>
-            <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
+            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
             <td><a href="https://github.com/NopeGuy/LI2-1920">Game "Rastros"</a></td>
             <td><a href="https://github.com/NopeGuy/POO-2223">Vintage knockoff store</a></td>
-            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
-            <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
           </tr>
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
             <td><a href="https://github.com/NopeGuy/project-poo-2021">Best Text FootManager Ever™</a></td>
-            <td></td>
-            <td></td>
           </tr>
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
-            <td></td>
+          </tr>
+           <tr>
+            <td><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
+            <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"></td>
             <td></td>
           </tr>
+          <tr>
+            <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
+            <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
+            <td></td>
+          </tr>
+          <tr>
         </table>
       </th>
     </tr>
