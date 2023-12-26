@@ -52,7 +52,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
           </tr>
           <tr>
-            <td></td>
+            <td> </td>
             <td></td>
             <td></td>
           </tr>
