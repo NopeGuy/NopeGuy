@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/NopeGuy/NopeGuy/blob/main/yosh3.gif?raw=true"/>
+</p>
 
-# Hi [I'm Luís, a.k.a. NopeGuy][website], and welcome to my corner of the digital universe! Take a stroll through my projects and coding misadventures.
-<br />  
+# Hi [I'm Luís, a.k.a. NopeGuy][website], and welcome to my corner of the digital universe!
+Take a stroll through my projects and coding misadventures.
 
 ## Small stuff about me:
 I am an informatics engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
@@ -24,7 +25,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
         <p>📚 Projects </p>
         <table>
           <tr>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Haskell"></td>
+            <td><img src="https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
             <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
           </tr>
@@ -44,26 +45,20 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
           </tr>
            <tr>
-            <td><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
-            <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"></td>
-            <td><a href="https://github.com/NopeGuy/SD-2324">Concurrent Cloud Computing</a></td>
+            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
+            <td><img src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+            <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
             <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
-            <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
-            <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></td>
-            <td></td>
-          </tr>
-          <tr>
             <td><a href="https://github.com/NopeGuy/LI4-2324">Auction Service</a></td>
+          </tr>
+          <tr>
+            <td></td>
             <td></td>
             <td></td>
           </tr>
-          <tr>
         </table>
       </th>
     </tr>
