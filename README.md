@@ -14,7 +14,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
 
 
 ##
-<div style="border: none">
+<div style="border: none; text-align: center;"">
   <table style="border-collapse: collapse;">
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
