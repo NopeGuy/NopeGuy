@@ -69,8 +69,8 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px; text-align: left;" align="center" width="1000">
-        <div style="font-size: larger; font-weight: bold; text-align: left;">📄 Exercises and Reports</div>
-        <ul>
+        <div style="font-size: larger; font-weight: bold; text-align: center;">📄 Exercises and Reports</div>
+        <ul style="text-align: left; list-style-position: inside;">
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">P.F. | Functional Programming / Programação Funcional</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">P.I. |</strong>Imperative Programming / Programação Imperativa</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">P.O.O. |Object Oriented Programming / Programação Orientada a Objetos</a></li>
