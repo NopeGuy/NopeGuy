@@ -9,9 +9,10 @@ I am an informatics engineering student at [**Universidade do Minho**][website2]
 Some of my interests include tinkering with homebrew software, game development as well as game ROM's code modification. I am always seeking new ways to hone my skills and optimize my coding practices.<br>
 This GitHub page showcases a collection of my projects and exercises completed over the years—feel free to explore!
 
-## 🎧 Spotify Playing 
-[![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
-
+  ## 🎧 Spotify Playing 
+  <div style="display: inline-block;">
+    [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
+  </div>
 <br />  
 
 ##
