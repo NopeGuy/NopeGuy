@@ -10,8 +10,11 @@ Some of my interests include tinkering with homebrew software, game development 
 This GitHub page showcases a collection of my projects and exercises completed over the years—feel free to explore!
 
 ## 🎧 Spotify Playing 
-<img src="https://novatorem-pied-one.vercel.app/api/spotify" alt="Spotify Now Playing" />
-
+<p align="center">
+  <a href="https://open.spotify.com/user/11130361747">
+    <img src="https://novatorem-pied-one.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ##
 <div style="border: none; text-align: center;"">
