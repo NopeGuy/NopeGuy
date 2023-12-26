@@ -11,9 +11,12 @@ This GitHub page showcases a collection of my projects and exercises completed o
 
 ## 🎧 Spotify Playing 
 <p align="center">
-  [![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
+  <a href="https://open.spotify.com/user/11130361747">
+    <img src="https://novatorem-pied-one.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
 </p>
-<br />  
+<br />
+
 
 ##
 <div style="border: none">
