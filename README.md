@@ -44,11 +44,26 @@ This GitHub page showcases a collection of my projects and exercises completed o
            <tr>
             <td><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
             <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"></td>
-            <td></td>
+            <td><a href="https://github.com/NopeGuy/SD-2324">Concurrent Cloud Computing</a></td>
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
             <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
+            <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
+            <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
