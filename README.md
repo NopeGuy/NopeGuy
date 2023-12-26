@@ -30,7 +30,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
+            <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
             <td><a href="https://github.com/NopeGuy/LI2-1920">Game "Rastros"</a></td>
             <td><a href="https://github.com/NopeGuy/POO-2223">Vintage knockoff store</a></td>
           </tr>
@@ -60,7 +60,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
+            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
             <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
             <td><a href="https://github.com/NopeGuy/LI4-2324">Auction Service</a></td>
           </tr>
