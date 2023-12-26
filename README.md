@@ -52,17 +52,12 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
           </tr>
           <tr>
-            <td> </td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
             <td><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
             <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></td>
             <td></td>
           </tr>
           <tr>
-            <td></td>
+            <td><a href="https://github.com/NopeGuy/LI4-2324">Auction Service</a></td>
             <td></td>
             <td></td>
           </tr>
