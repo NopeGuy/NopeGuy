@@ -76,7 +76,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">P.O.O. |Object Oriented Programming / Programação Orientada a Objetos</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">S.O. |Operating Systems / Sistemas Operativos</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">I.O. |Operational Investigation / Investigação Operacional</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">I.A. |Artificial Intelligence / Inteligência Artificial</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/IA">I.A. |Artificial Intelligence / Inteligência Artificial</a></li>
         </ul>
       </th>
     </tr>
