@@ -62,7 +62,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           <tr>
             <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
             <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
-            <td><a href="https://github.com/NopeGuy/LI4-2324">Auction Service</a></td>
+            <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction (SQL/C#/HTML)</a></td>
           </tr>
         </table>
       </th>
