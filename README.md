@@ -90,7 +90,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
 [![Email badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisgmsferreira@gmail.com)
 
 ## 👩‍💻 Languages and Tools
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/NopeGuy/NopeGuy/blob/main/icons/haskell.svg?raw=true" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/833642/36984493-9f340464-205a-11e8-9d93-bddc0a5793ec.png" />
