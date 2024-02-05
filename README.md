@@ -37,7 +37,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           <tr>
             <td></td>
             <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
-            <td><a href="https://github.com/NopeGuy/project-poo-2021">~~ Best ~~ Text FootManager Ever™</a></td>
+            <td><a href="https://github.com/NopeGuy/project-poo-2021">B̶e̶s̶t̶ Text FootManager Ever™</a></td>
           </tr>
           <tr>
             <td></td>
