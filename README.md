@@ -18,20 +18,14 @@ This GitHub page showcases a collection of my projects and exercises completed o
 </p>
 
 ##
-
 <div style="border: none; text-align: center;">
-  <table style="border-collapse: collapse; margin: auto; width: 80%;">
+  <table style="border-collapse: collapse; margin: auto;">
     <tr style="border: none !important;padding: 5px;">
-      <th style="border: none !important;padding: 5px; width: 100%;" align="center">        
-        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="100%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
-        <table style="width: 100%;">
+      <th style="border: none !important;padding: 5px;" align="center" width="1000">        
+        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="80%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
+        <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
+        <table>
           <tr>
-            <td style="border: none !important;padding: 5px; width: 100%;" align="center">
-              <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="border: none !important;padding: 5px; width: 100%;" align="center">
             <td><img src="https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
             <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
