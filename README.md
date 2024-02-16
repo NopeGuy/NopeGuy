@@ -70,6 +70,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           </tr>
         </table>
       </th>
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
     </tr>
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
@@ -89,9 +90,6 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
   </table>
 </div>
-<p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
-</p>
 
 
 ## 💬 Connect with me 
