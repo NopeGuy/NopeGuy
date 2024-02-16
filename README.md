@@ -18,10 +18,6 @@ This GitHub page showcases a collection of my projects and exercises completed o
 </p>
 
 ##
-<p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top_nobg.png?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
-</p>
-
 <div style="border: none; text-align: center;">
   <table style="border-collapse: collapse; margin: auto;">
     <tr style="border: none !important;padding: 5px;">
