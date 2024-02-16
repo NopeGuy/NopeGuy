@@ -23,8 +23,12 @@ This GitHub page showcases a collection of my projects and exercises completed o
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="center" width="1000">        
         <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="80%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
-        <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
         <table>
+          <tr>
+            <td style="border: none !important;padding: 5px;" align="center">
+              <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
+            </td>
+          </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
@@ -34,36 +38,6 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
             <td><a href="https://github.com/NopeGuy/LI2-1920">Game "Rastros"</a></td>
             <td><a href="https://github.com/NopeGuy/POO-2223">Vintage knockoff store</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
-            <td><a href="https://github.com/NopeGuy/project-poo-2021">B̶e̶s̶t̶ Text FootManager Ever™</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
-            <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/SD-2324">Concurrent Cloud Computing</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
-            <td><img src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
-            <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
-            <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
-            <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
           </tr>
         </table>
         <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot.gif?raw=true" alt="Bottom Image" width="80%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
@@ -75,13 +49,6 @@ This GitHub page showcases a collection of my projects and exercises completed o
         <ul>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">P.F.   | Functional Programming / Programação Funcional</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">P.I.   |</strong>Imperative Programming / Programação Imperativa</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">P.O.O.|Object Oriented Programming / Programação Orientada a Objetos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">S.O.   |Operating Systems / Sistemas Operativos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">I.O.   |Operational Investigation / Investigação Operacional</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/IA">I.A.   |Artificial Intelligence / Inteligência Artificial</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/SD">S.D.   |Distributed Systems / Sistemas Distribuídos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/CP">C.P.   |Program Calculuation / Cálculo de Programas</a></li>
-          <li><a href="https://github.com/NopeGuy/TPC-PL">P.L.   |Language Processing / Processamento de Linguagens</a></li>
         </ul>
       </th>
     </tr>
