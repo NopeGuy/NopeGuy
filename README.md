@@ -23,8 +23,10 @@ This GitHub page showcases a collection of my projects and exercises completed o
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="center" width="1000">  
         <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top_nobg.png?raw=true" alt="Bottom Image" width="70%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
-        <p style="font-size: huge; font-weight: bold;">📚 Projects </p>
         <table>
+          <tr>
+            <th colspan="3" style="font-size: huge; font-weight: bold;">📚 Projects </th>
+          </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
