@@ -23,6 +23,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="center" width="1000">        
         <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
+        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="100%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
         <table>
           <tr>
             <td><img src="https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
@@ -54,7 +55,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td></td>
             <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
           </tr>
-           <tr>
+          <tr>
             <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
             <td><img src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
             <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
@@ -65,6 +66,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
           </tr>
         </table>
+        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bottom.gif?raw=true" alt="Bottom Image" width="100%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
       </th>
     </tr>
     <tr style="border: none !important;padding: 5px;">
@@ -85,6 +87,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
   </table>
 </div>
+
 
 ## 💬 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
