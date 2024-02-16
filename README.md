@@ -19,7 +19,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
 
 ##
 <p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top_nobg.jpg?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
 </p>
 
 <div style="border: none; text-align: center;">
@@ -90,7 +90,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
   </table>
 </div>
 <p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot.gif?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
 </p>
 
 
