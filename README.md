@@ -25,7 +25,8 @@ This GitHub page showcases a collection of my projects and exercises completed o
 <div style="border: none; text-align: center;">
   <table style="border-collapse: collapse; margin: auto;">
     <tr style="border: none !important;padding: 5px;">
-      <th style="border: none !important;padding: 5px;" align="center" width="1000">        
+      <th style="border: none !important;padding: 5px;" align="center" width="1000">  
+        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top_nobg.png?raw=true" alt="Bottom Image" width="70%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
         <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
         <table>
           <tr>
@@ -90,10 +91,6 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
   </table>
 </div>
-<p align="center">
-  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Top Image" width="70%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
-</p>
-
 
 ## 💬 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
