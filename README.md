@@ -23,7 +23,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="center" width="1000">        
         <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
-        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar top.jpg?raw=true" alt="Top Image" width="100%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
+        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="100%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
         <table>
           <tr>
             <td><img src="https://img.shields.io/badge/haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></td>
@@ -66,7 +66,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
           </tr>
         </table>
-        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bottom.gif?raw=true" alt="Bottom Image" width="100%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
+        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot.gif?raw=true" alt="Bottom Image" width="100%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
       </th>
     </tr>
     <tr style="border: none !important;padding: 5px;">
