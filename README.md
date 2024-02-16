@@ -18,7 +18,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
 </p>
 
 ##
-<div style="border: none; text-align: center;">
+<div style="border: none; text-align: center; overflow: hidden;">
   <table style="border-collapse: collapse; margin: auto;">
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="center" width="1000">  
@@ -68,7 +68,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
           </tr>        
         </table>
-        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Bottom Image" width="70%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
+        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Bottom Image" width="70%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; margin-top: -10px;">
       </th>
     </tr>
     <tr style="border: none !important;padding: 5px;">
@@ -104,8 +104,6 @@ This GitHub page showcases a collection of my projects and exercises completed o
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/NopeGuy/NopeGuy/blob/main/icons/python.svg?raw=true" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/NopeGuy/NopeGuy/blob/main/icons/mysql.svg?raw=true" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/NopeGuy/NopeGuy/blob/main/icons/dotnet.svg?raw=true" />
-
-
 
 [website]: https://iamawesome.com/
 [website2]: https://www.uminho.pt/
