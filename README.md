@@ -18,11 +18,15 @@ This GitHub page showcases a collection of my projects and exercises completed o
 </p>
 
 ##
+<p align="center">
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="83%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
+</p>
+
 <div style="border: none; text-align: center;">
+
   <table style="border-collapse: collapse; margin: auto;">
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="center" width="1000">        
-        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_top.jpg?raw=true" alt="Top Image" width="83%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
         <p style="font-size: larger; font-weight: bold;">📚 Projects </p>
         <table>
           <tr>
@@ -30,43 +34,8 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
             <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
           </tr>
-          <tr>
-            <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
-            <td><a href="https://github.com/NopeGuy/LI2-1920">Game "Rastros"</a></td>
-            <td><a href="https://github.com/NopeGuy/POO-2223">Vintage knockoff store</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
-            <td><a href="https://github.com/NopeGuy/project-poo-2021">B̶e̶s̶t̶ Text FootManager Ever™</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
-            <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/SD-2324">Concurrent Cloud Computing</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
-            <td><img src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
-            <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
-            <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database GameStore</a></td>
-            <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
-          </tr>
+          <!-- Rest of your table content -->
         </table>
-        <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot.gif?raw=true" alt="Bottom Image" width="83%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;">
       </th>
     </tr>
     <tr style="border: none !important;padding: 5px;">
@@ -87,6 +56,10 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot.gif?raw=true" alt="Top Image" width="83%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
+</p>
 
 
 ## 💬 Connect with me 
