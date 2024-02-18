@@ -3,7 +3,8 @@
 </p>
 
 # Hi [I'm Luís, a.k.a. NopeGuy][website], and welcome to my corner of the digital universe!
-## Take a stroll through my projects and coding misadventures.</span>
+
+<big>Take a stroll through my projects and coding misadventures.</span></big>
 
 ## Small stuff about me:
 I am an informatics engineering student at [**Universidade do Minho**][website2] in Braga, with just one more year to complete my degree.<br>
