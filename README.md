@@ -85,6 +85,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/SD">S.D.   |Distributed Systems / Sistemas Distribuídos</a></li>
           <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/CP">C.P.   |Program Calculuation / Cálculo de Programas</a></li>
           <li><a href="https://github.com/NopeGuy/TPC-PL">P.L.   |Language Processing / Processamento de Linguagens</a></li>
+          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/CG">C.G.   |Graphic Computation / Computação Gráfica</a></li>
         </ul>
       </th>
     </tr>
