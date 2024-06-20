@@ -59,12 +59,12 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
           </tr>
            <tr>
-            <td></td>
+            <td><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VUE"></td>
             <td><a href="https://github.com/NopeGuy/CG-2324">Graphics Engine and Module Creator</a></td>
             <td><a href="https://github.com/NopeGuy/ATS-2324">Analysis and Test of Software</a></td>
           </tr>
           <tr>
-            <td></td>
+            <td><a href="https://github.com/NopeGuy/IPM-2324">Graphics Engine and Module Creator</a></td>
             <td></td>
             <td></td>
           </tr>   
