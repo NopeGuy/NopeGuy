@@ -60,12 +60,17 @@ This GitHub page showcases a collection of my projects and exercises completed o
           </tr>
            <tr>
             <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://github.com/NopeGuy/SSI-2324/tree/main/TPs/TP1">Encrypted Message Service</a></td>
+            <td><a href="https://github.com/NopeGuy/ATS-2324">Analysis and Test of Software</a></td>
           </tr>
           <tr>
+            <td><a href="https://github.com/NopeGuy/CG-2324">Graphics Engine and Module Creator</a></td>
+            <td><a href="https://github.com/NopeGuy/PL-2324">Forth Compiler</a></td>
             <td></td>
+          </tr>   
+          <tr>
             <td></td>
+            <td><a href="https://github.com/NopeGuy/SSI-2324/tree/main/TPs/TP2">Safe Messages Service</a></td>
             <td></td>
           </tr>        
         </table>
