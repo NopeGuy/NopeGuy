@@ -49,24 +49,24 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
           </tr>
           <tr>
-            <td></td>
+            <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
             <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
             <td><a href="https://github.com/NopeGuy/SD-2324">Concurrent Cloud Computing</a></td>
           </tr>
           <tr>
-            <td></td>
+            <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
             <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
             <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
           </tr>
            <tr>
             <td></td>
             <td></td>
-            <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
+            <td></td>
           </tr>
           <tr>
             <td></td>
             <td></td>
-            <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
+            <td></td>
           </tr>        
         </table>
         <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Bottom Image" width="70%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; margin-top: -10px;">
