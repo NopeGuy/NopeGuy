@@ -73,20 +73,8 @@ This GitHub page showcases a collection of my projects and exercises completed o
       </th>
     </tr>
     <tr style="border: none !important;padding: 5px;">
-      <th style="border: none !important;padding: 5px;" align="left" width="1000">
-        <p style="font-size: larger; font-weight: bold;">📄 Exercises, Reports and Material summaries</p>
-        <ul>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF">P.F.   | Functional Programming / Programação Funcional</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI">P.I.   |</strong>Imperative Programming / Programação Imperativa</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO">P.O.O.|Object Oriented Programming / Programação Orientada a Objetos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO">S.O.   |Operating Systems / Sistemas Operativos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO">I.O.   |Operational Investigation / Investigação Operacional</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/IA">I.A.   |Artificial Intelligence / Inteligência Artificial</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/SD">S.D.   |Distributed Systems / Sistemas Distribuídos</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/CP">C.P.   |Program Calculuation / Cálculo de Programas</a></li>
-          <li><a href="https://github.com/NopeGuy/TPC-PL">P.L.   |Language Processing / Processamento de Linguagens</a></li>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/3%C2%BA%20Ano/CG">C.G.   |Graphic Computation / Computação Gráfica</a></li>
-        </ul>
+      <th style="border: none !important; padding: 5px; font-size: 20px;" align="left" width="1000">
+        <a href="https://github.com/NopeGuy/University-WorkSheets"> 📄 Exercises, Reports and Material summaries </a>
       </th>
     </tr>
   </table>
