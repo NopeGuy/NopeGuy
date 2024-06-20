@@ -67,18 +67,13 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/IPM-2324">Graphics Engine and Module Creator</a></td>
             <td></td>
             <td></td>
-          </tr>   
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>        
+          </tr>
         </table>
         <img src="https://github.com/NopeGuy/NopeGuy/blob/main/gengar_bot_nobg.gif?raw=true" alt="Bottom Image" width="70%" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; margin-top: -10px;">
       </th>
     </tr>
     <tr style="border: none !important;padding: 5px;">
-      <th style="border: none !important; padding: 5px; font-size: 20px;" align="left" width="1000">
+      <th style="border: none !important; padding: 5px; font-size: 20px;" align="center" width="1000">
         <a href="https://github.com/NopeGuy/University-WorkSheets"> 📄 Exercises, Reports and Material summaries </a>
       </th>
     </tr>
