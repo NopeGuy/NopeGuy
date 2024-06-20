@@ -73,8 +73,8 @@ This GitHub page showcases a collection of my projects and exercises completed o
       </th>
     </tr>
     <tr style="border: none !important;padding: 5px;">
-      <th style="border: none !important;padding: 5px;" align="left" width="1000">
-        <a href="https://github.com/NopeGuy/University-WorkSheets"> 📄 Exercises, Reports and Material summaries </a><
+      <th style="border: none !important; padding: 5px; font-size: 20px;" align="left" width="1000">
+        <a href="https://github.com/NopeGuy/University-WorkSheets"> 📄 Exercises, Reports and Material summaries </a>
       </th>
     </tr>
   </table>
