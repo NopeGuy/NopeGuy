@@ -59,7 +59,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
           </tr>
            <tr>
-            <td></td>
+            <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"></td>
             <td></td>
             <td></td>
           </tr>
