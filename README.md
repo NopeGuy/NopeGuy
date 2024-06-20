@@ -36,7 +36,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           <tr>
             <td><a href="https://github.com/NopeGuy/BlockDudeHaskell">BlockDude Game</a></td>
             <td><a href="https://github.com/NopeGuy/LI2-1920">Game "Rastros"</a></td>
-            <td><a href="https://github.com/NopeGuy/POO-2223">Vintage knockoff store</a></td>
+            <td><a href="https://github.com/NopeGuy/POO-2324">Exercise APP</a></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
