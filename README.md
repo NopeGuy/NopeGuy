@@ -74,9 +74,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
     </tr>
     <tr style="border: none !important;padding: 5px;">
       <th style="border: none !important;padding: 5px;" align="left" width="1000">
-        <ul>
-          <li><a href="https://github.com/NopeGuy/University-WorkSheets"> 📄 Exercises, Reports and Material summaries </a></li>
-        </ul>
+        <a href="https://github.com/NopeGuy/University-WorkSheets"> 📄 Exercises, Reports and Material summaries </a><
       </th>
     </tr>
   </table>
