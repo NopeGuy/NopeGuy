@@ -39,38 +39,38 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/POO-2324">Fitness APP</a></td>
           </tr>
           <tr>
-            <td><img src="https://img.shields.io/badge/mysql-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
             <td><a href="https://github.com/NopeGuy/LI3-2223">Parser and Data Management</a></td>
             <td><a href="https://github.com/NopeGuy/project-poo-2021">B̶e̶s̶t̶ Text FootManager Ever™</a></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/NopeGuy/University-WorkSheets/tree/main/2º%20Ano/BD">Database Bookstore</a></td>
+            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
             <td><a href="https://github.com/NopeGuy/SO2223">Tracking Program Execution</a></td>
             <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
           </tr>
           <tr>
-            <td><img src="https://img.shields.io/badge/dotnet-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt=".Net"></td>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
+            <td><a href="https://github.com/NopeGuy/PL-2324">Forth Compiler</a></td>
+            <td><a href="https://github.com/NopeGuy/SSI-2324/tree/main/TPs/TP2">Safe OS Message Service</a></td>
             <td><a href="https://github.com/NopeGuy/SD-2324">Concurrent Cloud Computing</a></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/NopeGuy/LI4-2324">Inverted Auction</a></td>
-            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
+            <td><a href="https://github.com/NopeGuy/SSI-2324/tree/main/TPs/TP1">Encrypted Message Service</a></td>
+            <td></td>
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
           </tr>
            <tr>
             <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"></td>
-            <td><a href="https://github.com/NopeGuy/SSI-2324/tree/main/TPs/TP1">Encrypted Message Service</a></td>
+            <td></td>
             <td><a href="https://github.com/NopeGuy/ATS-2324">Analysis and Test of Software</a></td>
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/CG-2324">Graphics Engine and Module Creator</a></td>
-            <td><a href="https://github.com/NopeGuy/PL-2324">Forth Compiler</a></td>
+            <td></td>
             <td></td>
           </tr>   
           <tr>
             <td></td>
-            <td><a href="https://github.com/NopeGuy/SSI-2324/tree/main/TPs/TP2">Safe Messages Service</a></td>
+            <td></td>
             <td></td>
           </tr>        
         </table>
