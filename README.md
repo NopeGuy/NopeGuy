@@ -49,13 +49,13 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/CC-2324/tree/main">File Sharing with UDP/Torrent</a></td>
           </tr>
           <tr>
-            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
             <td></td>
+            <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
             <td><a href="https://github.com/NopeGuy/SD-2324">Concurrent Cloud Computing</a></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
             <td></td>
+            <td><a href="https://github.com/NopeGuy/IA-2324">Algorithm Search Delivery</a></td>
             <td><a href="https://github.com/NopeGuy/DSS-2324">Software Systems Project</a></td>
           </tr>
            <tr>
