@@ -64,7 +64,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
             <td><a href="https://github.com/NopeGuy/ATS-2324">Analysis and Test of Software</a></td>
           </tr>
           <tr>
-            <td><a href="https://github.com/NopeGuy/IPM-2324">Mechanic Management Service Website</a></td>
+            <td><a href="https://github.com/NopeGuy/IPM-2324">Mechanic Management Service</a></td>
             <td></td>
             <td></td>
           </tr>
