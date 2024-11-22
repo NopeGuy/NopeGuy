@@ -64,7 +64,7 @@ This GitHub page showcases a collection of my projects and exercises completed o
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/Portfolio-Website-Template">Template Website for CV/Portfolio</a></td>
-            <td>><a href="https://github.com/NopeGuy/RustlingsExercises">Rustlings</a></td>
+            <td><a href="https://github.com/NopeGuy/RustlingsExercises">Rustlings</a></td>
             <td><a href="https://github.com/NopeGuy/LI4-2324">Auction Website</a></td>
           </tr>
           <tr>
