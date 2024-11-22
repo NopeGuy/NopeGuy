@@ -4,8 +4,8 @@
 
 ## Small stuff about me:
 I am an informatics engineering graduate from [**Universidade do Minho**][website2] in Braga.<br>
-Some of my interests include tinkering with homebrew software, game development as well as game ROM's code modification. I am always seeking new ways to hone my skills and optimize my coding practices.<br>
-This GitHub page showcases a collection of my projects and exercises completed over the years—feel free to explore!
+Some of my interests include tinkering with homebrew software, game development as well as game ROM's code modification.<br>
+This GitHub page showcases a collection of my projects and exercises completed over the years, feel free to explore!
 
 ## 🎧 Spotify Playing 
 <p align="center">
