@@ -59,22 +59,22 @@ This GitHub page showcases a collection of my projects and exercises completed o
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/rememberingsV2">Reminders Web Application (Firebase)</a></td>
+            <td><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></td>
             <td><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></td>
-            <td><img src="https://img.shields.io/badge/GODOT-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"></td>
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/Portfolio-Website-Template">Template Website for CV/Portfolio</a></td>
+            <td>><a href="https://github.com/NopeGuy/RustlingsExercises">Rustlings</a></td>
             <td><a href="https://github.com/NopeGuy/LI4-2324">Auction Website</a></td>
-            <td><a href="https://github.com/NopeGuy/GodotSRPG">SRPG Game</a></td>
           </tr>
           <tr>
             <td><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VUE"></td>
-            <td></td>
+            <td><img src="https://img.shields.io/badge/GODOT-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="https://github.com/NopeGuy/IPM-2324">Mechanic Management Service</a></td>
-            <td></td>
+            <td><a href="https://github.com/NopeGuy/GodotSRPG">SRPG Game</a></td>
             <td></td>
           </tr>
         </table>
