@@ -1,0 +1,257 @@
+<svg fill="none" viewBox="0 0 800 900" width="800" height="900" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @import url('https://unpkg.com/98.css');
+                
+                * {
+                    box-sizing: border-box;
+                }
+                
+                body {
+                    margin: 0;
+                    padding: 20px;
+                    background: #008080;
+                    font-family: "MS Sans Serif", sans-serif;
+                }
+                
+                .window {
+                    width: 100%;
+                    max-width: 760px;
+                    margin: 0 auto;
+                }
+                
+                .title-bar {
+                    background: linear-gradient(to right, #000080, #1084d0);
+                    padding: 3px;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                }
+                
+                .title-bar-text {
+                    color: white;
+                    font-weight: bold;
+                    padding-left: 5px;
+                }
+                
+                .title-bar-controls button {
+                    width: 16px;
+                    height: 14px;
+                    padding: 0;
+                    margin-left: 2px;
+                }
+                
+                .window-body {
+                    background: #c0c0c0;
+                    border: 2px solid;
+                    border-color: #dfdfdf #808080 #808080 #dfdfdf;
+                    padding: 15px;
+                }
+                
+                h1 {
+                    font-size: 18px;
+                    margin: 0 0 10px 0;
+                }
+                
+                h2 {
+                    font-size: 14px;
+                    margin: 15px 0 10px 0;
+                }
+                
+                .tree-view {
+                    list-style: none;
+                    padding-left: 20px;
+                    margin: 10px 0;
+                }
+                
+                .tree-view li:before {
+                    content: "▪ ";
+                }
+                
+                .sunken-panel {
+                    background: white;
+                    border: 2px solid;
+                    border-color: #808080 #dfdfdf #dfdfdf #808080;
+                    padding: 10px;
+                    margin: 10px auto;
+                }
+                
+                table {
+                    width: 100%;
+                    border-collapse: collapse;
+                }
+                
+                th, td {
+                    text-align: left;
+                    padding: 5px;
+                    font-size: 11px;
+                }
+                
+                button {
+                    background: #c0c0c0;
+                    border: 2px solid;
+                    border-color: #dfdfdf #808080 #808080 #dfdfdf;
+                    padding: 3px 10px;
+                    font-family: "MS Sans Serif", sans-serif;
+                    font-size: 11px;
+                    cursor: pointer;
+                }
+                
+                button:active {
+                    border-color: #808080 #dfdfdf #dfdfdf #808080;
+                }
+                
+                .status-bar {
+                    background: #c0c0c0;
+                    border-top: 2px solid #dfdfdf;
+                    padding: 3px;
+                    display: flex;
+                    gap: 5px;
+                }
+                
+                .status-bar-field {
+                    border: 1px solid;
+                    border-color: #808080 #dfdfdf #dfdfdf #808080;
+                    padding: 2px 5px;
+                    margin: 0;
+                    font-size: 11px;
+                }
+                
+                a {
+                    color: #0000ff;
+                    text-decoration: underline;
+                }
+                
+                hr {
+                    border: 0;
+                    border-top: 1px solid #808080;
+                    margin: 10px 0;
+                }
+                
+                .flex-row {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: flex-start;
+                    gap: 10px;
+                }
+                
+                .flex-center {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 15px;
+                    margin: 15px 0;
+                }
+                
+                .flex-between {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-top: 15px;
+                }
+            </style>
+            
+            <div class="window">
+                <div class="title-bar">
+                    <div class="title-bar-text">NopeGuy's Profile - README.txt</div>
+                    <div class="title-bar-controls">
+                        <button>_</button>
+                        <button>□</button>
+                        <button>×</button>
+                    </div>
+                </div>
+                
+                <div class="window-body">
+                    <div class="flex-row">
+                        <div style="flex: 1;">
+                            <h1>Welcome to my digital corner of the universe</h1>
+                        </div>
+                        <div>
+                            <img src="https://novatorem-pied-one.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify" width="200"/>
+                        </div>
+                    </div>
+                    
+                    <br/>
+                    
+                    Hi, I'm <a href="https://iamawesome.com/">Luis (a.k.a. NopeGuy)</a>
+                    <ul class="tree-view">
+                        <li>Informatics Engineer</li>
+                        <li>Interests: Homebrew Software, Game Development, ROM Hacking</li>
+                    </ul>
+                    
+                    <h2>some stuff I do be making</h2>
+                    
+                    <div class="sunken-panel">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Project</th>
+                                    <th>Description</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><a href="https://github.com/NopeGuy/BlockDudeHaskell"><strong>BlockDude Game</strong></a></td>
+                                    <td>Puzzle platformer written in Haskell</td>
+                                </tr>
+                                <tr>
+                                    <td><a href="https://github.com/NopeGuy/CG-2324"><strong>Graphics Engine</strong></a></td>
+                                    <td>3D rendering engine with model generator</td>
+                                </tr>
+                                <tr>
+                                    <td><a href="https://github.com/NopeGuy/GodotSRPG"><strong>SRPG Game</strong></a></td>
+                                    <td>Strategy RPG made in Godot Engine</td>
+                                </tr>
+                                <tr>
+                                    <td><a href="https://github.com/NopeGuy/plaza_radio_tui"><strong>Plaza Radio TUI</strong></a></td>
+                                    <td>Terminal-based radio player in Rust</td>
+                                </tr>
+                                <tr>
+                                    <td><a href="https://github.com/NopeGuy/LI4-2324"><strong>Auction Website</strong></a></td>
+                                    <td>Full-stack auction platform</td>
+                                </tr>
+                                <tr>
+                                    <td><a href="https://github.com/NopeGuy/rememberingsV2"><strong>Reminders App</strong></a></td>
+                                    <td>Task manager built with Firebase</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    
+                    <div class="flex-center">
+                        <h2 style="margin: 0;">📞 Connect</h2>
+                        <div>
+                            <a href="https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/">
+                                <button>LinkedIn</button>
+                            </a>
+                            <a href="mailto:nopeguyproductions@gmail.com">
+                                <button>Email</button>
+                            </a>
+                            <a href="https://www.youtube.com/watch?v=qObaKsPEp8A/">
+                                <button>???</button>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="flex-between">
+                        <div>
+                            <p style="margin: 0; font-size: 10px;">© 20XX NopeGuy<br/>Powered by nostalgia</p>
+                        </div>
+                        <div style="text-align: center;">
+                            <a href="https://github.com/NopeGuy/University-WorkSheets">
+                                🗑️<br/>
+                                <strong style="font-size: 10px;">College Stuff</strong>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="status-bar">
+                    <p class="status-bar-field">System ready.</p>
+                    <p class="status-bar-field">Press any key to continue...</p>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
