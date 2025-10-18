@@ -165,7 +165,7 @@
 
                 <div class="status-bar">
                     <div class="status-bar-field">© 20XX NopeGuy</div>
-                    <div class="status-bar-field">Powered by nostalgia</div>
+                    <div class="status-bar-field"></div>
                 </div>
             </div>
         </div>
